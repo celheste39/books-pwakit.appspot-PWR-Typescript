@@ -5,17 +5,17 @@
       "value": "google",
       "domain": ".books-pwakit.appspot.com",
       "path": "/",
-      "expires": 1752781920.839601,
+      "expires": 1752782471.705543,
       "httpOnly": false,
       "secure": false,
       "sameSite": "Lax"
     },
     {
       "name": "NID",
-      "value": "514=cAn_7WyU9yo65-1HrXOv_ThJZI3fmO5O_r9qdEZDnijMTOKfKzrNUIxxIcKP4KRoAqRob99HFQ2Wv4uc0O5pE9zPdUutfMnB_ErI3GZQ2HSjI00ycL5n-cr2DoBV24SeL3LX-1K6CEsqdmcz3RctamX0NWqAI45Ezb5JNaEDdVg",
+      "value": "514=WrGINwAwNgXWwXcGp_xQ-kl-8bZOjQ_Idcu3lyRrUz43PNfKc0CZRk3ypwL7YWwq2tbxXJ9gQc2Xe1MOee9zFQjV0oU5ZlCbhqH6PnjLObPzCv75A5WLbA0Hk0Yx4uNbAiiutoZFvuZloys__wP-H2UNRFoVv_5KW-ku0EJ5-w4",
       "domain": ".google.com",
       "path": "/",
-      "expires": 1734033121.836518,
+      "expires": 1734033672.79666,
       "httpOnly": true,
       "secure": true,
       "sameSite": "None"
