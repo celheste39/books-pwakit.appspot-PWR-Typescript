@@ -1,0 +1,25 @@
+{
+  "cookies": [
+    {
+      "name": "G_ENABLED_IDPS",
+      "value": "google",
+      "domain": ".books-pwakit.appspot.com",
+      "path": "/",
+      "expires": 1752781920.839601,
+      "httpOnly": false,
+      "secure": false,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "NID",
+      "value": "514=cAn_7WyU9yo65-1HrXOv_ThJZI3fmO5O_r9qdEZDnijMTOKfKzrNUIxxIcKP4KRoAqRob99HFQ2Wv4uc0O5pE9zPdUutfMnB_ErI3GZQ2HSjI00ycL5n-cr2DoBV24SeL3LX-1K6CEsqdmcz3RctamX0NWqAI45Ezb5JNaEDdVg",
+      "domain": ".google.com",
+      "path": "/",
+      "expires": 1734033121.836518,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    }
+  ],
+  "origins": []
+}
