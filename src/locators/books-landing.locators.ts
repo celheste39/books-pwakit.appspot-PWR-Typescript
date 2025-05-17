@@ -9,6 +9,9 @@ export function getHomeLandingPageLocators(page: Page): PageElements{
         lib3: page.getByRole('link', { name: 'Introducción al cálculo vectorial para el estudio de la física Introducción al' }),
         label1: page.getByRole('heading', { name: 'Cálculo integral de una' }),
         label2: page.getByRole('heading', { name: 'Cálculo diferencial' }),
-        label3: page.getByRole('heading', { name: 'Introducción al cálculo' })
+        label3: page.getByRole('heading', { name: 'Introducción al cálculo' }),
+        canalFeid: page.getByLabel('Feid', { exact: true }),
+        videoFeid: page.getByText('HomeVideosShortsLiveReleasesPlaylistsPostsStore Search')
+
     }
 }
